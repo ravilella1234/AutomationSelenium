@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started Running:customerLogin]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On SignIn LinkUsing with Object[[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> link text: Sign in]]]>
+    </line>
+    <line>
+      <![CDATA[Entered Email Addressusing with Object[[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> id: email]]]>
+    </line>
+    <line>
+      <![CDATA[Entered Password using with Object [[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> id: passwd]]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on SubmitButton using with Object Proxy element for: DefaultElementLocator 'By.id: SubmitLogin']]>
+    </line>
+    <line>
+      <![CDATA[Verified Account details using with Object [[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> xpath: //h1[text()='My account']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Home Linkusing with Object Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Return to Home']']]>
+    </line>
+    <line>
+      <![CDATA[Test is success:customerLogin]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_00.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_00.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test started Running:purchaseTwoItems]]>
+    </line>
+    <line>
+      <![CDATA[Test is success:purchaseTwoItems]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\purchaseTwoItems_20_05_2018_04_22_26.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\purchaseTwoItems_20_05_2018_04_22_26.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test started Running:customerLogin]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On SignIn LinkUsing with Object[[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> link text: Sign in]]]>
+    </line>
+    <line>
+      <![CDATA[Entered Email Addressusing with Object[[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> id: email]]]>
+    </line>
+    <line>
+      <![CDATA[Entered Password using with Object [[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> id: passwd]]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on SubmitButton using with Object Proxy element for: DefaultElementLocator 'By.id: SubmitLogin']]>
+    </line>
+    <line>
+      <![CDATA[Verified Account details using with Object [[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> xpath: //h1[text()='My account']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Home Linkusing with Object Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Return to Home']']]>
+    </line>
+    <line>
+      <![CDATA[Test is success:customerLogin]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_45.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_45.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test started Running:previousOrdersList]]>
+    </line>
+    <line>
+      <![CDATA[Test is success:previousOrdersList]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\previousOrdersList_20_05_2018_04_26_17.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\previousOrdersList_20_05_2018_04_26_17.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="286255" started-at="2018-05-20T10:51:41Z" finished-at="2018-05-20T10:56:28Z">
+    <groups>
+    </groups>
+    <test name="Purchase" duration-ms="46757" started-at="2018-05-20T10:51:41Z" finished-at="2018-05-20T10:52:28Z">
+      <class name="com.automation.AutomationPractice.TC001_PurchaseTwoItems">
+        <test-method status="PASS" signature="startProcess(java.lang.String)[pri:0, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea]" name="startProcess" is-config="true" duration-ms="11809" started-at="2018-05-20T10:51:41Z" finished-at="2018-05-20T10:51:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="customerLogin()[pri:0, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea]" name="customerLogin" duration-ms="6739" started-at="2018-05-20T10:51:53Z" finished-at="2018-05-20T10:52:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started Running:customerLogin]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On SignIn LinkUsing with Object[[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> link text: Sign in]]]>
+            </line>
+            <line>
+              <![CDATA[Entered Email Addressusing with Object[[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> id: email]]]>
+            </line>
+            <line>
+              <![CDATA[Entered Password using with Object [[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> id: passwd]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on SubmitButton using with Object Proxy element for: DefaultElementLocator 'By.id: SubmitLogin']]>
+            </line>
+            <line>
+              <![CDATA[Verified Account details using with Object [[ChromeDriver: chrome on XP (235f7c8226122213fddbaf84dd779d1a)] -> xpath: //h1[text()='My account']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Home Linkusing with Object Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Return to Home']']]>
+            </line>
+            <line>
+              <![CDATA[Test is success:customerLogin]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_00.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_00.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerLogin -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea]" name="tearDown" is-config="true" duration-ms="2" started-at="2018-05-20T10:52:01Z" finished-at="2018-05-20T10:52:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerLogin status=SUCCESS method=TC001_PurchaseTwoItems.customerLogin()[pri:0, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea] output=Test started Running:customerLogin]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="purchaseTwoItems()[pri:1, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea]" name="purchaseTwoItems" duration-ms="24974" started-at="2018-05-20T10:52:01Z" finished-at="2018-05-20T10:52:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started Running:purchaseTwoItems]]>
+            </line>
+            <line>
+              <![CDATA[Test is success:purchaseTwoItems]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\purchaseTwoItems_20_05_2018_04_22_26.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\purchaseTwoItems_20_05_2018_04_22_26.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- purchaseTwoItems -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-05-20T10:52:26Z" finished-at="2018-05-20T10:52:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=purchaseTwoItems status=SUCCESS method=TC001_PurchaseTwoItems.purchaseTwoItems()[pri:1, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea] output=Test started Running:purchaseTwoItems]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:com.automation.AutomationPractice.TC001_PurchaseTwoItems@55fe41ea]" name="endProcess" is-config="true" duration-ms="2089" started-at="2018-05-20T10:52:26Z" finished-at="2018-05-20T10:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- com.automation.AutomationPractice.TC001_PurchaseTwoItems -->
+    </test> <!-- Purchase -->
+    <test name="Previous" duration-ms="239451" started-at="2018-05-20T10:52:28Z" finished-at="2018-05-20T10:56:28Z">
+      <class name="com.automation.AutomationPractice.TC002_PreviousOrders">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="startReport" is-config="true" duration-ms="304" started-at="2018-05-20T10:51:41Z" finished-at="2018-05-20T10:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="startProcess(java.lang.String)[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="startProcess" is-config="true" duration-ms="10480" started-at="2018-05-20T10:52:28Z" finished-at="2018-05-20T10:52:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="customerLogin()[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="customerLogin" duration-ms="5969" started-at="2018-05-20T10:52:39Z" finished-at="2018-05-20T10:52:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started Running:customerLogin]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On SignIn LinkUsing with Object[[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> link text: Sign in]]]>
+            </line>
+            <line>
+              <![CDATA[Entered Email Addressusing with Object[[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> id: email]]]>
+            </line>
+            <line>
+              <![CDATA[Entered Password using with Object [[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> id: passwd]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on SubmitButton using with Object Proxy element for: DefaultElementLocator 'By.id: SubmitLogin']]>
+            </line>
+            <line>
+              <![CDATA[Verified Account details using with Object [[ChromeDriver: chrome on XP (a1e9088561f1eb3d41d3e9586b77d207)] -> xpath: //h1[text()='My account']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Home Linkusing with Object Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Return to Home']']]>
+            </line>
+            <line>
+              <![CDATA[Test is success:customerLogin]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_45.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\customerLogin_20_05_2018_04_22_45.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerLogin -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-05-20T10:52:45Z" finished-at="2018-05-20T10:52:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerLogin status=SUCCESS method=TC002_PreviousOrders.customerLogin()[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771] output=Test started Running:customerLogin]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="previousOrdersList()[pri:1, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="previousOrdersList" duration-ms="208958" started-at="2018-05-20T10:52:45Z" finished-at="2018-05-20T10:56:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started Running:previousOrdersList]]>
+            </line>
+            <line>
+              <![CDATA[Test is success:previousOrdersList]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\previousOrdersList_20_05_2018_04_26_17.png'> <img src='C:\Users\Suuresh\git\selenium\AutomationPractice\src\main\java\com\automation\AutomationPractice\success_screenshots\previousOrdersList_20_05_2018_04_26_17.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- previousOrdersList -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="endProcess" is-config="true" duration-ms="2054" started-at="2018-05-20T10:56:26Z" finished-at="2018-05-20T10:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-20T10:56:26Z" finished-at="2018-05-20T10:56:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=previousOrdersList status=SUCCESS method=TC002_PreviousOrders.previousOrdersList()[pri:1, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771] output=Test started Running:previousOrdersList]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.automation.AutomationPractice.TC002_PreviousOrders@67080771]" name="endReport" is-config="true" duration-ms="548" started-at="2018-05-20T10:56:28Z" finished-at="2018-05-20T10:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.automation.AutomationPractice.TC002_PreviousOrders -->
+    </test> <!-- Previous -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
